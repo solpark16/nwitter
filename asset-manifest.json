@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/solpark16/nwitter/static/js/main.fcd34795.js",
-    "index.html": "/solpark16/nwitter/index.html",
-    "main.fcd34795.js.map": "/solpark16/nwitter/static/js/main.fcd34795.js.map"
+    "main.js": "/nwitter/static/js/main.fcd34795.js",
+    "index.html": "/nwitter/index.html",
+    "main.fcd34795.js.map": "/nwitter/static/js/main.fcd34795.js.map"
   },
   "entrypoints": [
     "static/js/main.fcd34795.js"
